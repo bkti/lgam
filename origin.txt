@@ -1,0 +1,8 @@
+Uri: https://lgpa1.gr8.com/
+File Name: c:\Downloaded Web Sites\lgpa1.gr8.com\index.htm
+Content Type: text/html
+
+Uri: https://lgpa1.gr8.com/images/common/templates/landing/155/1/css/style.css
+File Name: c:\Downloaded Web Sites\lgpa1.gr8.com\images\common\templates\landing\155\1\css\style.css
+Content Type: text/css
+
